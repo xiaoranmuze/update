@@ -120,7 +120,8 @@
 
 
 ◆◆◆　https://raw.githubusercontent.com/kakaxi-1/IPTV/refs/heads/main/iptv.txt
-2026-03-22 18:51:42,http://kakaxi.indevs.in/LOGO/Disclaimer.mp4
+2026-03-22 22:51:51,http://kakaxi.indevs.in/LOGO/Disclaimer.mp4
+淘,http://115.171.80.124:1688/rtp/225.1.8.211:8002
 淘,http://114.254.83.46:8888/rtp/239.3.1.249:8001
 淘,http://221.220.130.223:8012/rtp/239.3.1.249:8001
 淘,http://115.171.216.58:4000/rtp/225.1.8.211:8002
@@ -129,15 +130,17 @@
 睛彩广场舞,http://114.254.83.46:8888/rtp/239.3.1.128:8001
 睛彩广场舞,http://221.220.130.223:8012/rtp/239.3.1.128:8001
 睛彩广场舞,http://123.118.50.37:8686/rtp/239.3.1.128:8001
-华数,http://106.87.51.33:8888/rtp/235.254.198.102:7980
+华数,http://115.171.80.124:1688/rtp/225.1.8.80:2000
 华数,http://114.254.83.46:8888/rtp/239.3.1.236:2000
+华数,http://106.87.51.33:8888/rtp/235.254.198.102:7980
 华数,http://221.220.130.223:8012/rtp/239.3.1.236:2000
 华数,http://115.171.216.58:4000/rtp/225.1.8.80:2000
 华数,http://123.118.50.37:8686/rtp/239.3.1.236:2000
 华数,http://115.171.216.84:4000/rtp/225.1.8.80:2000
+华数动作影院,http://115.171.80.124:1688/rtp/225.1.8.252:4120
 华数动作影院,http://223.198.243.233:4000/rtp/239.253.64.220:5140
-华数动作影院,http://106.87.51.33:8888/rtp/235.254.198.99:1672
 华数动作影院,http://114.254.83.46:8888/rtp/239.3.1.92:4120
+华数动作影院,http://106.87.51.33:8888/rtp/235.254.198.99:1672
 华数动作影院,http://221.220.130.223:8012/rtp/239.3.1.92:4120
 华数动作影院,http://115.171.216.58:4000/rtp/225.1.8.252:4120
 华数动作影院,http://123.118.50.37:8686/rtp/239.3.1.92:4120
@@ -149,7 +152,7 @@ tv2 canal algérie,https://t.freetv.fun/live/tv2-canal-algerie.m3u8
 []cinema,https://t.freetv.fun/live/cinema-4.m3u8
 []cinema,https://t.freetv.fun/live/cinema-5.m3u8
 cinema,https://t.freetv.fun/live/cinema-7.m3u8
-[]diaspora 24,https://t.freetv.fun/live/diaspora-24.m3u8
+diaspora 24,https://t.freetv.fun/live/diaspora-24.m3u8
 gtv,https://t.freetv.fun/live/gtv.m3u8
 lgtv,https://t.freetv.fun/live/lgtv.m3u8
 sun tv,https://t.freetv.fun/live/sun-tv-2.m3u8
@@ -320,7 +323,7 @@ tv brasil internacional,https://t.freetv.fun/live/tv-brasil-internacional.m3u8
 tvn5,https://t.freetv.fun/live/tvn5.m3u8
 tvn,https://t.freetv.fun/live/tvn-2.m3u8
 []ucv,https://t.freetv.fun/live/ucv.m3u8
-cctv-8hd,https://t.freetv.fun/live/cctv-8hd.m3u8
+[]cctv-8hd,https://t.freetv.fun/live/cctv-8hd.m3u8
 cctv-08,https://t.freetv.fun/live/cctv-08.php
 cctv-8k超,https://t.freetv.fun/live/cctv-8kchao-gao-qing.m3u8
 cctv-8k超,https://t.freetv.fun/live/cctv-8kchao-gao-qing-1.m3u8
@@ -342,7 +345,7 @@ cctv-12hd,https://t.freetv.fun/live/cctv-12hd.m3u8
 []cctv-12hd,https://t.freetv.fun/live/cctv-12hd-1.m3u8
 []cctv13,https://t.freetv.fun/live/cctv13-3.m3u8
 []cctv-13,https://t.freetv.fun/live/cctv-13.php
-cctv-13hd,https://t.freetv.fun/live/cctv-13hd.m3u8
+[]cctv-13hd,https://t.freetv.fun/live/cctv-13hd.m3u8
 []cctv-13hd,https://t.freetv.fun/live/cctv-13hd-1.m3u8
 []cctv14,https://t.freetv.fun/live/cctv14-2.php
 []cctv-14,https://t.freetv.fun/live/cctv-14.php
@@ -356,7 +359,7 @@ cctv-15hd,https://t.freetv.fun/live/cctv-15hd-1.m3u8
 []cctv16,https://t.freetv.fun/live/cctv16-2.m3u8
 cctv-16hd,https://t.freetv.fun/live/cctv-16hd.m3u8
 []cctv-16hd,https://t.freetv.fun/live/cctv-16hd-1.m3u8
-[]cctv-17hd,https://t.freetv.fun/live/cctv-17hd.m3u8
+cctv-17hd,https://t.freetv.fun/live/cctv-17hd.m3u8
 []cctv-17hd,https://t.freetv.fun/live/cctv-17hd-1.m3u8
 []cctv2,https://t.freetv.fun/live/cctv2.m3u8
 []cctv2,https://t.freetv.fun/live/cctv2-13.m3u8
@@ -381,7 +384,7 @@ cctv5 plus,https://t.freetv.fun/live/cctv5-plus.php
 cctv5 plus,https://t.freetv.fun/live/cctv5-plus-1.m3u8
 cctv5 plus,https://t.freetv.fun/live/cctv5-plus-5.m3u8
 cctv6-电影,https://t.freetv.fun/live/cctv6-dian-ying-1.php
-[]cctv-6hd,https://t.freetv.fun/live/cctv-6hd.m3u8
+cctv-6hd,https://t.freetv.fun/live/cctv-6hd.m3u8
 []cctv-6hd,https://t.freetv.fun/live/cctv-6hd-1.m3u8
 []cctv7,https://t.freetv.fun/live/cctv7-2.m3u8
 []cctv-7hd,https://t.freetv.fun/live/cctv-7hd.m3u8
@@ -780,7 +783,7 @@ tvp info,https://t.freetv.fun/live/tvp-info-1.m3u8
 ttv kino,https://t.freetv.fun/live/ttv-kino.m3u8
 kino tv,https://t.freetv.fun/live/kino-tv-2.m3u8
 []rik sat cyprus,https://t.freetv.fun/live/rik-sat-cyprus-1.m3u8
-rik sat,https://t.freetv.fun/live/rik-sat.m3u8
+[]rik sat,https://t.freetv.fun/live/rik-sat.m3u8
 []cetv4,https://t.freetv.fun/live/cetv4.m3u8
 []cetv2,https://t.freetv.fun/live/cetv2.m3u8
 []cetv4,https://t.freetv.fun/live/cetv4-1.m3u8
@@ -823,7 +826,7 @@ abai tv,https://t.freetv.fun/live/abai-tv-1.m3u8
 []sfera tv,https://t.freetv.fun/live/sfera-tv.m3u8
 []taxi,https://t.freetv.fun/live/taxi.m3u8
 []taxi,https://t.freetv.fun/live/taxi-1.m3u8
-food food,https://t.freetv.fun/live/food-food.m3u8
+[]food food,https://t.freetv.fun/live/food-food.m3u8
 []canal 4 jujuy,https://t.freetv.fun/live/canal-4-jujuy.m3u8
 []canal rtvd 4,https://t.freetv.fun/live/canal-rtvd-4.m3u8
 delfi tv,https://t.freetv.fun/live/delfi-tv.m3u8
@@ -849,6 +852,7 @@ drive tv,https://t.freetv.fun/live/drive-tv.m3u8
 dorcel,https://t.freetv.fun/live/dorcel.m3u8
 []euro d,https://t.freetv.fun/live/euro-d-2.m3u8
 []euronews,https://t.freetv.fun/live/euronews-5.m3u8
+[]euronews it,https://t.freetv.fun/live/euronews-it-1.m3u8
 []euronews,https://t.freetv.fun/live/euronews-8.m3u8
 []euronews,https://t.freetv.fun/live/euronews-9.m3u8
 []euronews de,https://t.freetv.fun/live/euronews-de-1.m3u8
@@ -1316,7 +1320,6 @@ arirang tv,https://t.freetv.fun/live/arirang-tv.m3u8
 arirang tv,https://t.freetv.fun/live/arirang-tv-2.m3u8
 []arirang world,https://t.freetv.fun/live/arirang-world-1.m3u8
 arirang,https://t.freetv.fun/live/arirang-3.m3u8
-[]tarang tv,https://t.freetv.fun/live/tarang-tv.m3u8
 []arirang,https://t.freetv.fun/live/arirang-4.m3u8
 []arirang k-pop,https://t.freetv.fun/live/arirang-k-pop.m3u8
 []arirang tv,https://t.freetv.fun/live/arirang-tv-4.m3u8
@@ -1579,7 +1582,8 @@ waterbear,https://t.freetv.fun/live/waterbear-2.m3u8
 []ls tv,https://t.freetv.fun/live/ls-tv-1.m3u8
 []tv,https://t.freetv.fun/live/tv.m3u8
 []fb tv,https://t.freetv.fun/live/fb-tv.m3u8
-me tv,https://t.freetv.fun/live/me-tv.m3u8
+[]me tv,https://t.freetv.fun/live/me-tv.m3u8
+[]tvj,https://t.freetv.fun/live/tvj.m3u8
 tv,https://t.freetv.fun/live/tv-1-1.m3u8
 []az tv,https://t.freetv.fun/live/az-tv-1.m3u8
 az tv,https://t.freetv.fun/live/az-tv-2.m3u8
@@ -1615,7 +1619,7 @@ news one,https://t.freetv.fun/live/news-one.m3u8
 paighan tv,https://t.freetv.fun/live/paighan-tv.m3u8
 tvp world,https://t.freetv.fun/live/tvp-world.m3u8
 []salaam tv,https://t.freetv.fun/live/salaam-tv.m3u8
-samaa tv,https://t.freetv.fun/live/samaa-tv.m3u8
+[]samaa tv,https://t.freetv.fun/live/samaa-tv.m3u8
 []dd urdu,https://t.freetv.fun/live/dd-urdu.m3u8
 news18 urdu,https://t.freetv.fun/live/news18-urdu.m3u8
 rpp tv,https://t.freetv.fun/live/rpp-tv.m3u8
@@ -1650,7 +1654,6 @@ telefe internacional,https://t.freetv.fun/live/telefe-internacional.m3u8
 []azteca internacional,https://t.freetv.fun/live/azteca-internacional-2.m3u8
 []rtp madeira,https://t.freetv.fun/live/rtp-madeira.m3u8
 []rtp madeira,https://t.freetv.fun/live/rtp-madeira-1.m3u8
-[]rtp memória,https://t.freetv.fun/live/rtp-memoria.m3u8
 []sic,https://t.freetv.fun/live/sic.m3u8
 sic,https://t.freetv.fun/live/sic-1.m3u8
 []rtp,https://t.freetv.fun/live/rtp-1.m3u8
@@ -1968,7 +1971,7 @@ viva russia,https://t.freetv.fun/live/viva-russia-1.m3u8
 сибирь 24,https://t.freetv.fun/live/sibir-24-1.m3u8
 []сибирь 24,https://t.freetv.fun/live/sibir-24-2.m3u8
 наша сибирь 4к,https://t.freetv.fun/live/nasha-sibir-4k.m3u8
-спорт,https://t.freetv.fun/live/sport.m3u8
+[]спорт,https://t.freetv.fun/live/sport.m3u8
 []тв центр,https://t.freetv.fun/live/tv-tsentr.m3u8
 тв центр,https://t.freetv.fun/live/tv-tsentr-1.m3u8
 тнт,https://t.freetv.fun/live/tnt.m3u8
@@ -2134,7 +2137,7 @@ pursuit channel,https://t.freetv.fun/live/pursuit-channel.m3u8
 []ivoire channel,https://t.freetv.fun/live/ivoire-channel.m3u8
 cooking channel,https://t.freetv.fun/live/cooking-channel.m3u8
 channel ginga,https://t.freetv.fun/live/channel-ginga.m3u8
-[]cowboy channel,https://t.freetv.fun/live/cowboy-channel.m3u8
+cowboy channel,https://t.freetv.fun/live/cowboy-channel.m3u8
 []channel 11,https://t.freetv.fun/live/channel-11-1.m3u8
 cfm tv channel 98 (360p),https://t.freetv.fun/live/cfm-tv-channel-98-360p.m3u8
 kartoon channel,https://t.freetv.fun/live/kartoon-channel-1.m3u8
@@ -2391,7 +2394,6 @@ al arabiya eng,https://t.freetv.fun/live/al-arabiya-eng.m3u8
 haunt tv,https://t.freetv.fun/live/haunt-tv-1.m3u8
 []espace tv,https://t.freetv.fun/live/espace-tv.m3u8
 peace tv bangla,https://t.freetv.fun/live/peace-tv-bangla.m3u8
-[]peace tv bangla,https://t.freetv.fun/live/peace-tv-bangla-1.m3u8
 []peace of mind tv,https://t.freetv.fun/live/peace-of-mind-tv.m3u8
 []sharjah tv,https://t.freetv.fun/live/sharjah-tv.m3u8
 []sharjah tv,https://t.freetv.fun/live/sharjah-tv-1.m3u8
@@ -2466,7 +2468,7 @@ top rank classics,https://t.freetv.fun/live/top-rank-classics-3.m3u8
 movies thriller,https://t.freetv.fun/live/movies-thriller.m3u8
 pbs nature,https://t.freetv.fun/live/pbs-nature.m3u8
 []sky sports tennis,https://t.freetv.fun/live/sky-sports-tennis.m3u8
-sky sports tennis,https://t.freetv.fun/live/sky-sports-tennis-1.m3u8
+[]sky sports tennis,https://t.freetv.fun/live/sky-sports-tennis-1.m3u8
 []un si grand soleil,https://t.freetv.fun/live/un-si-grand-soleil.m3u8
 cirque du soleil,https://t.freetv.fun/live/cirque-du-soleil.m3u8
 []spirit tv,https://t.freetv.fun/live/spirit-tv-2.m3u8
@@ -2828,7 +2830,7 @@ the design network,https://t.freetv.fun/live/the-design-network.m3u8
 []the design network (p),https://t.freetv.fun/live/the-design-network-1080p.m3u8
 the design network,https://t.freetv.fun/live/the-design-network-1.m3u8
 []the weather network,https://t.freetv.fun/live/the-weather-network-2.m3u8
-[]show,https://t.freetv.fun/live/show-1.m3u8
+show,https://t.freetv.fun/live/show-1.m3u8
 moviesphere *y,https://t.freetv.fun/live/moviesphere-y.m3u8
 The Movies,https://t.freetv.fun/live/the-movies.m3u8
 tom and jerry,https://t.freetv.fun/live/tom-and-jerry.m3u8
@@ -3482,6 +3484,8 @@ HISTORY,http://37.27.111.214:8080/live/27/hls.m3u8
 武乡融媒体,http://uzoiczhh.live.sxmty.com/live/hls/0d41f1480c4042d49927858f01fde707/53130407737b417b9a6259b57246bae3.m3u8
 达茂综合,http://pili-live-hls-nmgapp12019.nmgcyy.com.cn/nmgapp12019/live174278125035550.m3u8
 元宝山电视,http://l2yx82zv.live2.danghongyun.com/live/hls/8be0890a1b0c4d7aaf80b51ea8646682/5a8988f5ecc64986a19aa9b6b3a052a6.m3u8
+准格尔旗综合,http://pili-live-hls-nmgapp12019.nmgcyy.com.cn/nmgapp12019/live173640226096016.m3u8
+乌海都市生活,http://live.wuhainews.org.cn/dssh/sd/live.m3u8
 奎屯汉语综合,http://218.84.12.186:8001/hls/main/playlist.m3u8
 奎屯哈萨克语,http://218.84.12.186:8002/hls/main/playlist.m3u8
 玛纳斯综合,http://218.84.127.245:1026/hls/main1/playlist.m3u8
@@ -4162,6 +4166,8 @@ Fox News,http://154.37.222.93/smart.php?id=foxnews_twn
 安徽综艺体育,https://stream1.freetv.fun/an-hui-zong-yi-ti-yu-4.ctv
 安徽综艺体育,https://stream1.freetv.fun/an-hui-zong-yi-ti-yu-8.m3u8
 内蒙农牧,http://play1-qk.nmtv.cn:80/live/1686561299036179.m3u8
+内蒙古少儿,http://play1-qk.nmtv.cn/live/1686560464515368.m3u8
+内蒙古文体娱乐,http://play1-qk.nmtv.cn/live/1686561195713372.m3u8
 内蒙古蒙语文化,http://play1-qk.nmtv.cn/live/1686561065304370.m3u8
 黑龙江新闻,https://stream1.freetv.fun/hei-long-jiang-xin-wen-9.m3u8
 七台河民生社教,http://yp.qqqtv.top/1/api.php?id=%E4%B8%83%E5%8F%B0%E6%B2%B3%E6%B0%91%E7%94%9F%E7%A4%BE%E6%95%99&auth=666858
