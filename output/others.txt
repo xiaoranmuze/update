@@ -759,6 +759,7 @@ chc影迷电影,https://t.freetv.fun/live/chcying-mi-dian-ying.m3u8
 []海南卫视,https://t.freetv.fun/live/hai-nan-wei-shi-2.m3u8
 []海南卫视,https://t.freetv.fun/live/hai-nan-wei-shi-4.m3u8
 []海南卫视,https://t.freetv.fun/live/hai-nan-wei-shi-15.m3u8
+乌海新闻综合,https://t.freetv.fun/live/wu-hai-xin-wen-zong-he.m3u8
 []深圳卫视,https://t.freetv.fun/live/shen-zhen-wei-shi-2.m3u8
 []深圳卫视,https://t.freetv.fun/live/shen-zhen-wei-shi-21.m3u8
 []深圳卫视,https://t.freetv.fun/live/shen-zhen-wei-shi-31.m3u8
@@ -2166,6 +2167,7 @@ offer1,http://live.nctv.top/huya.php?id=30080237
 
 ◆◆◆　https://gitee.com/xxy002/zhiboyuan/raw/master/dsy
 ◆◆◆　https://raw.githubusercontent.com/vbskycn/iptv/master/tv/iptv4.txt
+◆◆◆　https://live.zbds.top/tv/iptv4.txt
 熊猫直播,https://gcwbndali.v.myalicdn.com/gcwbnd/ipanda1000_2/index.m3u8
 支持作者,https://vd2.bdstatic.com/mda-sctj0f6r4u1bpebc/1080p/cae_h264/1774706523506678171/mda-sctj0f6r4u1bpebc.mp4
 上海卫视,http://112.27.235.94:8000/hls/28/index.m3u8
@@ -2318,9 +2320,6 @@ AMC音乐,https://AMChls.wns.live/hls/stream.m3u8
 岭南戏曲,http://120.238.84.45:9901/tsfile/live/1095_1.m3u8?key=txiptv&playlive=1&authid=0
 
 
-◆◆◆　https://live.zbds.top/tv/iptv4.txt
-
-
 ◆◆◆　https://tzdr.com/iptv.txt
 
 
@@ -2337,8 +2336,6 @@ AMC音乐,https://AMChls.wns.live/hls/stream.m3u8
 
 
 ◆◆◆　https://raw.githubusercontent.com/zzmaze/iptv/main/itvlist.txt
-
-
 ◆◆◆　https://tv.850930.xyz/kdsb.txt
 广州电视,http://8.138.7.223/tv/gd.php?id=gz4k
 广州电视,http://8.138.7.223/tv/gd.php?id=gztv5
@@ -2667,6 +2664,8 @@ CGTN英文记录,http://183.11.239.36:808/hls/77/index.m3u8
 武乡融媒体,http://uzoiczhh.live.sxmty.com/live/hls/0d41f1480c4042d49927858f01fde707/53130407737b417b9a6259b57246bae3.m3u8
 达茂综合,http://pili-live-hls-nmgapp12019.nmgcyy.com.cn/nmgapp12019/live174278125035550.m3u8
 元宝山电视,http://l2yx82zv.live2.danghongyun.com/live/hls/8be0890a1b0c4d7aaf80b51ea8646682/5a8988f5ecc64986a19aa9b6b3a052a6.m3u8
+准格尔旗综合,http://pili-live-hls-nmgapp12019.nmgcyy.com.cn/nmgapp12019/live173640226096016.m3u8
+乌海都市生活,http://live.wuhainews.org.cn/dssh/sd/live.m3u8
 奎屯汉语综合,http://218.84.12.186:8001/hls/main/playlist.m3u8
 奎屯哈萨克语,http://218.84.12.186:8002/hls/main/playlist.m3u8
 玛纳斯综合,http://218.84.127.245:1026/hls/main1/playlist.m3u8
@@ -3046,24 +3045,18 @@ Astr剧集,http://php.jdshipin.com:8880/TVOD/iptv.php?id=aod
 
 
 ◆◆◆　https://raw.githubusercontent.com/n3rddd/CTVLive/refs/heads/main/live.txt
-更新日期,https://cors.isteed.cc/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/W/CRIMETVPV1.mkv
-2026-08-17,https://cors.isteed.cc/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/W/CRIMETVPV2.mkv
-翡翠台,https://mgev.188766.xyz/?migutoken=e027bbfbfe02bc36b72bd848539f8922&id=hk_fct&type=dy
-明珠台,https://mgev.188766.xyz/?migutoken=26c12108aa24cb805ba07dd2114be961&id=hk_mzt&type=dy
-
-
 ◆◆◆　https://raw.githubusercontent.com/Supprise0901/TVBox_live/main/live.txt
-新闻,http://tvcdn.stream3.hndt.com/tv/65bb6966017e100059b75a8500000000_transios/playlist.m3u8?wsSecret=101760644698bbeca190b7654adb6c6e&wsTime=1786989581
-都市,http://tvcdn.stream3.hndt.com/tv/65c3fbc5017e1000fde13faa00000000_transios/playlist.m3u8?wsSecret=a607ed616fb922bf309d9fafc6d4eadf&wsTime=1786989581
-民生,http://tvcdn.stream3.hndt.com/tv/65bef28a017e10009c49d5f900000000_transios/playlist.m3u8?wsSecret=2702ef09d9f709891e078ac2abcc742d&wsTime=1786989581
-法治,http://tvcdn.stream3.hndt.com/tv/65be54a9017e1000af59fb4800000000_transios/playlist.m3u8?wsSecret=a0aca51c02ffa07d6f2d1ea740bb827a&wsTime=1786989581
-公共,http://tvcdn.stream3.hndt.com/tv/65b93894017e10000ae6b07d00000000_transios/playlist.m3u8?wsSecret=8670d253b2ef13ce58c038940ac9c7cf&wsTime=1786989581
-河南乡村,http://tvcdn.stream3.hndt.com/tv/65b8302b017e100019dc540f00000000_transios/playlist.m3u8?wsSecret=ecbb434299d1a50502b346c00d5f03b0&wsTime=1786989581
-电视剧,http://tvcdn.stream3.hndt.com/tv/65bd329b017e1000648cd2ed00000000_transios/playlist.m3u8?wsSecret=39c144c721e29d36ed3958ba5d8c29bf&wsTime=1786989581
-武术,https://dxtx.hntv.tv/live/wssj.m3u8?txSecret=c38b4d31ba4c45c6babb5c47132123e3&txTime=7ABB976A&wsSecret=29bdbd724bf7fc18ba235768ad367f66&wsTime=1786989581
-睛彩中原,https://dxtx.hntv.tv/live/jczy.m3u8?txSecret=e785008e49564e5e738439b4dd2ae68e&txTime=7C4C6207&wsSecret=50c6f19b0f60fc996553c354b31dd93e&wsTime=1786989581
-国学,rtmp://rtmp.tv.stream3.hndt.com/tv/647f9277018410008cf925e200000000?wsSecret=9a23316ee66e918684e097f&wsSecret=941ad7ba3e2c6d60ed350c57edb7b423&wsTime=1786989581
-欢腾购物,http://tvcdn.stream3.hndt.com/tv/65ba653b017e1000d4ee41c700000000_transios/playlist.m3u8?wsSecret=3af8369ce6ae6e87c808c0e1e9566ae6&wsTime=1786989581
+新闻,http://tvcdn.stream3.hndt.com/tv/65bb6966017e100059b75a8500000000_transios/playlist.m3u8?wsSecret=1311e863d26895eeae0a1621a69066a1&wsTime=1786993194
+都市,http://tvcdn.stream3.hndt.com/tv/65c3fbc5017e1000fde13faa00000000_transios/playlist.m3u8?wsSecret=851689722dd35b89e230287cfb963a33&wsTime=1786993194
+民生,http://tvcdn.stream3.hndt.com/tv/65bef28a017e10009c49d5f900000000_transios/playlist.m3u8?wsSecret=9b4c9dcd65c7377ff86803a0717c111e&wsTime=1786993194
+法治,http://tvcdn.stream3.hndt.com/tv/65be54a9017e1000af59fb4800000000_transios/playlist.m3u8?wsSecret=e6235876c93ea7af18184eed996ef656&wsTime=1786993194
+公共,http://tvcdn.stream3.hndt.com/tv/65b93894017e10000ae6b07d00000000_transios/playlist.m3u8?wsSecret=9db6c965fa3859b174d8b00157d009f4&wsTime=1786993194
+河南乡村,http://tvcdn.stream3.hndt.com/tv/65b8302b017e100019dc540f00000000_transios/playlist.m3u8?wsSecret=13f2299e7978a4b02ecba7702f50d213&wsTime=1786993194
+电视剧,http://tvcdn.stream3.hndt.com/tv/65bd329b017e1000648cd2ed00000000_transios/playlist.m3u8?wsSecret=9b8d2d2753b670fe00b9a000bc98b92b&wsTime=1786993194
+武术,https://dxtx.hntv.tv/live/wssj.m3u8?txSecret=c38b4d31ba4c45c6babb5c47132123e3&txTime=7ABB976A&wsSecret=674ef11a2ba7fae454e508482803de6d&wsTime=1786993194
+睛彩中原,https://dxtx.hntv.tv/live/jczy.m3u8?txSecret=e785008e49564e5e738439b4dd2ae68e&txTime=7C4C6207&wsSecret=aa3507fb9235af680d90b9a773d85806&wsTime=1786993194
+国学,rtmp://rtmp.tv.stream3.hndt.com/tv/647f9277018410008cf925e200000000?wsSecret=9a23316ee66e918684e097f&wsSecret=8a90568047d584c8c3839d1fa9cd5c89&wsTime=1786993194
+欢腾购物,http://tvcdn.stream3.hndt.com/tv/65ba653b017e1000d4ee41c700000000_transios/playlist.m3u8?wsSecret=6092d57ea6cdec1350ae0d5fbc625ff2&wsTime=1786993194
 北京卫视超,http://38.75.136.137:98/gslb/dsdqbv/bjwshd.m3u8?auth=test20251009
 北京卫视超,http://120.211.62.180:8000/hls/35/index.m3u8
 福建海峡卫视,http://113.120.243.10:7788/849119120
@@ -3130,10 +3123,6 @@ Red Bull TV,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m
 
 
 ◆◆◆　https://raw.githubusercontent.com/Cx4x/6/refs/heads/main/iiqy.m3u
-💎添加唯一售后QQ💎,https://cccimg.com/view.php/6099371f290b30f968df614849c46f7a.mp4
-💎开球后5分钟刷新配置💎,https://cccimg.com/down.php/9aa51c2f3ca945aefb295386d3a55f05.mp4
-
-
 ◆◆◆　https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/result.txt
 ◆◆◆　https://raw.githubusercontent.com/lml1971/tv/refs/heads/main/tv.txt
 ◆◆◆　https://c.cxics.com/ds/%E7%A7%92%E6%92%AD.txt
@@ -3538,6 +3527,7 @@ Plus综合,https://cdn6.101.qzz.io/163189/tvbp
 浙江卫视频4k,http://124.116.170.138:8081/rtp/239.111.205.65:5140
 江苏卫视频4k,http://124.116.170.138:8081/rtp/239.111.205.64:5140
 湖南卫视频4k,http://124.116.170.138:8081/rtp/239.111.205.63:5140
+广东卫视频4k,http://124.116.170.138:8081/rtp/239.111.205.103:5140
 深圳卫视频4k,http://124.116.170.138:8081/rtp/239.111.205.104:5140
 山东卫视频4k,http://124.116.170.138:8081/rtp/239.111.205.66:5140
 四川卫视频4k,http://124.116.170.138:8081/rtp/239.111.205.62:5140
@@ -4791,6 +4781,7 @@ iHQ 돈쭐내러 왔습니다,https://ads.its-newid.net/api/manifest.m3u8?tp=sam
 要条件,https://vd2.bdstatic.com/mda-kgah4byryi8gsqk8/v1-cae/mda-kgah4byryi8gsqk8.mp4?pd=-1&pt=0&cr=0&vt=0&cd=0&did=cfcd208495d565ef66e7dff9f98764da&logid=1347013120&vid=11361264719745011699&auth_key=1655290347-0-0-5dfca4bc79fbe4b6685de35fd1e0a622&bcevod_channel=searchbox_feed
 经典小品[1920x],http://epg.112114.xyz/douyu/9067836
 相声小品[960x540],http://epg.112114.xyz/douyu/9286868
+春晚1983,https://vd2.bdstatic.com/mda-nmgf0aiczefpbjyv/360p/h264/1671273368681637465/mda-nmgf0aiczefpbjyv.mp4
 新歌来了《点燃一根烟》《雪花寄相思》优美歌声值得珍藏,https://vd4.bdstatic.com/mda-ndh6iph1cjnpbx5v/1080p/cae_h264_delogo/1650258726083919516/mda-ndh6iph1cjnpbx5v.mp4
 新歌推荐《今生的唯一》《今夜的雨是谁的眼泪》相当好听,https://vd2.bdstatic.com/mda-ndg6psg9zd12ihzs/1080p/cae_h264_delogo/1650236539803095703/mda-ndg6psg9zd12ihzs.mp4
 新歌推荐《梦中想着你》《惜别的海岸》好听醉人,https://vd2.bdstatic.com/mda-ndg53jbq7si8hftd/1080p/cae_h264_delogo/1650167662040039831/mda-ndg53jbq7si8hftd.mp4
@@ -4867,6 +4858,7 @@ DJ夜店舞曲胡蜜丹,https://vd2.bdstatic.com/mda-kjpvz81f3fsb0m4v/sc/mda-kjp
 最近很火的车载DJ舞曲明歆悦,https://vd4.bdstatic.com/mda-kifwywyz3t3qd51z/sc/mda-kifwywyz3t3qd51z.mp4
 车载夜店DJ舞曲张韶涵,https://vd3.bdstatic.com/mda-kife2iqvj58uu623/sc/mda-kife2iqvj58uu623.mp4
 黄家驹   岁月无声,http://jsmov2.a.yximgs.com/upic/2023/04/12/00/BMjAyMzA0MTIwMDA3MDFfMTY5MzMwMjIyNl8xMDAzOTE1NDY5NzNfMl8z_b_B47a770766e6b433a1383df6a7bd37b2a.mp4
+黄家驹   农民,http://jsmov2.a.yximgs.com/upic/2022/11/16/22/BMjAyMjExMTYyMjA1MjZfMjc0MTM5MTkxN184ODg3NjIzMzEzMl8yXzM=_b_B6c54b7f7906e0398ab11288bb80febb1.mp4
 你是我的老公我是你的妻,https://alimov2.a.kwimgs.com/upic/2022/06/23/07/BMjAyMjA2MjMwNzAxNTZfOTU2MzA3MDg4Xzc3NDAwNDc3MjEwXzJfMw==_b_Bfc80758a46fbf63381f81f3e03572257.mp4?
 几许风雨,https://vd4.bdstatic.com/mda-niqnwkxr1xe0td7x/sc/cae_h264/1664272915711924607/mda-niqnwkxr1xe0td7x.mp4
 今天你要嫁给我,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/48a8d5d41dfa4ee5944a6da99465d6b6/1200.m3u8
@@ -4924,6 +4916,7 @@ dj舞曲,https://share.weiyun.com/54uCPgZi
 几首绝美情歌DJ,https://vdse.bdstatic.com//c5c64b60c9fdfbdfa3e959bb1d56c4b0.mp4
 追光者,https://vd3.bdstatic.com/mda-paq8uh3cnx0v6bvb/sc/cae_h264/1674627706077214573/mda-paq8uh3cnx0v6bvb.mp4
 无言的结局,http://vd3.bdstatic.com/mda-jenpdiydc7kez9ze/mda-jenpdiydc7kez9ze.mp4
+叹这一生  苏谭谭,http://hxf928.njc.svp.tencent-cloud.com/0bf2zmaccaaafaaj2jh2h5pvbs6dehfqaiia.f10002.mp4
 温奕心 一路生花,https://vd2.bdstatic.com/mda-paicz1638ntzwct7/sc/cae_h264/1674120080609952072/mda-paicz1638ntzwct7.mp4
 程jiajia-别错过,https://vd3.bdstatic.com/mda-nh0cca7hkrpxazas/720p/h264/1659343484380643139/mda-nh0cca7hkrpxazas.mp4
 郑星妤-沉默寡言,https://vd2.bdstatic.com/mda-nj56w7iy4anq1wpu/sc/cae_h264/1665032169740077032/mda-nj56w7iy4anq1wpu.mp4
@@ -4985,6 +4978,7 @@ DJ爆红情歌,https://vd3.bdstatic.com/mda-ndv4c2sjkixp16nw/hd/cae_h264_delogo/
 狂飙30,https://p26-sign.douyinpic.com/obj/tos-cn-v-0000c2367/d56a84c47e784df79acbcd72b99930cf?filename=1.mp4&x-expires=1990620000&x-signature=kiCGy9kGgybCIVahSdiVwWBsSus%3D
 狂飙33,https://p26-sign.douyinpic.com/obj//tos-cn-v-0000c2367/e78ed75c7aa14cbd867980911e6823b4?filename=1.mp4&x-expires=1990350000&x-signature=u49156MCkEpQw74nc0W%2BxM1AWzg%3D
 狂飙36,https://p26-sign.douyinpic.com/obj/tos-cn-v-0000c2367/1c03129b2d624023b73ea05806923742?filename=1.mp4&x-expires=1990620000&x-signature=7TBUReFxuLYRdTWrUXcOr32AxUk%3D
+产科医生 第一集,https://cdn8.yzzy-tv-cdn.com/20220909/18886_55df9e25/1000k/hls/index.m3u8
 尘封十三载 第01集,https://hd.lz-cdn18.com/20230406/1701_0ba78cf7/index.m3u8
 尘封十三载 第02集,https://hd.lz-cdn18.com/20230406/1700_691f2e08/index.m3u8
 尘封十三载 第03集,https://hd.lz-cdn18.com/20230406/1699_2f8cac84/index.m3u8
@@ -5055,7 +5049,6 @@ Soda东南亚之旅,https://vdse.bdstatic.com//b6295e9776c2cd347716fc2447e27fac.
 安徽池州九华山风景区花,http://gcbsc.v.live.baishancdnx.cn/gc/jhs01_1/index.m3u8
 云南丽江白水,http://gcbsc.v.live.baishancdnx.cn/gc/hkylxs07_1/index.m3u8
 雪乡梦幻家园观景,http://gcbsc.v.live.baishancdnx.cn/gc/mdjxxmhjygjt_1/index.m3u8
-🐼iPanda大丰麋鹿,http://gcalic.v.myalicdn.com/gc/xiongmao23_1/index.m3u8
 冷漠-古咖啡,http://antiserver.kuwo.cn/anti.s?rid=MUSIC_3142984&response=res&format=mp4&type=convert_url
 冷漠-时光海湾,http://antiserver.kuwo.cn/anti.s?rid=MUSIC_9867444&response=res&format=mp4&type=convert_url
 冷漠-真不是闹着玩,http://antiserver.kuwo.cn/anti.s?rid=MUSIC_22836669&response=res&format=mp4&type=convert_url
